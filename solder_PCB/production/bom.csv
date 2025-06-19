@@ -1,6 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-BT2,BatteryHolder_Keystone_3034_1x20mm,1,Battery_Cell,
-"D1, D2, D3",LED_D5.0mm,3,LED,
-R1,R_LDR_5.1x4.3mm_P3.4mm_Vertical,1,R_Photo,
-"R6, R8",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,R,
-"SW1, SW2, SW3",SW_PUSH_6mm,3,SW_Push,
